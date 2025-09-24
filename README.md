@@ -22,12 +22,12 @@ We investigate the generation and propagation of impulse waves on particle-laden
 ## Supplemental movies 
 
 <p align="center">
-  <img src="Supplemental%20Movies/Movie1.gif" width="40%">
+  <img src="Supplemental%20Movies/Figure9a.gif" width="80%">
 </p>
 
-<p align="center">
+<p align="center">H<sub>2</sub>O
   <em>
-    Movie 1: Oil encapsulation in the (a) dripping and (b) jetting regime for R̄ = 0.29 and Ca = 7.9 × 10⁻⁴.
+    Movie 1: Image sequenceof a breaking wave with no particles for *R* = 3.97 mm, *H<sub>g</sub>* = 17 cm, and *h<sub>0</sub>* = 3 cm. Played at 1/2 speed.
   </em>
 </p>
 
