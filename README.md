@@ -14,3 +14,27 @@ We investigate the generation and propagation of impulse waves on particle-laden
 ---
 
 ## Supplemental movies 
+
+---
+
+## Data
+
+The data presented in the manuscript is available .
+
+---
+
+## Citation
+
+If you use this data, please cite our associated paper:
+
+```bibtex
+@article{reyner2025granular,
+  title={Granular collapse on particle-laden water},
+  author={Nathan Reyner, Chase T. Gabbard, and Joshua B. Bostwick},
+  journal={XXX},
+  volume={XXX},
+  number={XXX},
+  pages={XXX},
+  year={XXX},
+  publisher={XXX}
+}
