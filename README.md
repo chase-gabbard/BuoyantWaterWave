@@ -21,6 +21,16 @@ We investigate the generation and propagation of impulse waves on particle-laden
 
 ## Supplemental movies 
 
+<p align="center">
+  <img src="Supplemental%20Movies/Movie1.gif" width="40%">
+</p>
+
+<p align="center">
+  <em>
+    Movie 1: Oil encapsulation in the (a) dripping and (b) jetting regime for R̄ = 0.29 and Ca = 7.9 × 10⁻⁴.
+  </em>
+</p>
+
 ---
 
 ## Data
