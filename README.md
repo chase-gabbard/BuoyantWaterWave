@@ -22,7 +22,7 @@ We investigate the generation and propagation of impulse waves on particle-laden
 ## Supplemental movies 
 
 <p align="center">
-  <img src="Supplemental%20Movies/Figure9a.gif" width="80%">
+  <img src="Supplemental%20Movies/Figure9a.gif" width="100%">
 </p>
 
 <p align="center">
