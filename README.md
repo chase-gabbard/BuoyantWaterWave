@@ -27,7 +27,7 @@ We investigate the generation and propagation of impulse waves on particle-laden
 
 <p align="center">
   <em>
-    Movie 1: Image sequenceof a breaking wave with no particles for _R_ = 3.97 mm, _H<sub>g</sub>_ = 17 cm, and _h<sub>0</sub>_ = 3 cm. Played at 1/2 speed.
+    Movie 1: Image sequenceof a breaking wave with no particles for R = 3.97 mm, H<sub>g</sub> = 17 cm, and h<sub>0</sub> = 3 cm. Played at 1/2 speed.
   </em>
 </p>
 
