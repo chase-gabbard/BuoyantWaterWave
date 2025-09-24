@@ -7,8 +7,8 @@ _in prep_
 
 
 <p align="center">
-  <img src="Supplemental%20Movies/wave11_1.gif" width="45%">
-  <img src="Supplemental%20Movies/BuoyantWavePerspectiveView_reduced_2.gif" width="45%">
+  <img src="Supplemental%20Movies/CleanWavePerspectiveView_Reduced.gif" width="45%">
+  <img src="Supplemental%20Movies/BuoyantWavePerspectiveView_Reduced.gif" width="45%">
 </p>
 
 ---
