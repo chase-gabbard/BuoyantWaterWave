@@ -5,6 +5,11 @@ This repository contains the data and supplemental movies associated with the pa
 _Granular collapse on particle-laden water_  
 _in prep_
 
+
+<p align="center">
+  <img src="Supplemental%20Movies/BuoyantWavePerspectiveView_reduced.gif" width="80%">
+</p>
+
 ---
 
 ## Overview
