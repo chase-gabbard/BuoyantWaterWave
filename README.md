@@ -27,7 +27,7 @@ We investigate the generation and propagation of impulse waves on particle-laden
 
 <p align="center">
   <em>
-    Movie 1: Image sequence of a breaking wave with no particles for H<sub>g</sub> = 17 cm, and h<sub>0</sub> = 3 cm. Played at 1/2 speed.
+    Movie 1: A granular column of height H<sub>g</sub> = 20 cm released into water of height h<sub>0</sub> = 4.7 cm covered with a monolayer of buoyant particles R = 3.97 mm. Played at 1/2 speed.
   </em>
 </p>
 
@@ -39,7 +39,7 @@ We investigate the generation and propagation of impulse waves on particle-laden
 
 <p align="center">
   <em>
-    Movie 2: Image sequence of a breaking wave with no particles for H<sub>g</sub> = 17 cm, and h<sub>0</sub> = 3 cm. Played at 1/2 speed.
+    Movie 2: A solitary wave produced from the collapse of a granular column with height H<sub>g</sub> = 10 cm for h<sub>0</sub> = 4.7 cm and R = 3.97 mm. Played at 1/2 speed.
   </em>
 </p>
 
@@ -51,7 +51,7 @@ We investigate the generation and propagation of impulse waves on particle-laden
 
 <p align="center">
   <em>
-    Movie 3: Image sequence of a breaking wave with no particles for H<sub>g</sub> = 17 cm, and h<sub>0</sub> = 3 cm. Played at 1/2 speed.
+    Movie 3: A breaking bore wave produced from the collapse of a granular column with height H<sub>g</sub> = 20 cm for h<sub>0</sub> = 4.7 cm and R = 3.97 mm. Played at 1/2 speed.
   </em>
 </p>
 
