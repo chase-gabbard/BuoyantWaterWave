@@ -22,6 +22,42 @@ We investigate the generation and propagation of impulse waves on particle-laden
 ## Supplemental movies 
 
 <p align="center">
+  <img src="Supplemental%20Movies/Figure2.gif" width="100%">
+</p>
+
+<p align="center">
+  <em>
+    Movie 1: Image sequence of a breaking wave with no particles for H<sub>g</sub> = 17 cm, and h<sub>0</sub> = 3 cm. Played at 1/2 speed.
+  </em>
+</p>
+
+---
+
+<p align="center">
+  <img src="Supplemental%20Movies/Figure3a.gif" width="100%">
+</p>
+
+<p align="center">
+  <em>
+    Movie 1: Image sequence of a breaking wave with no particles for H<sub>g</sub> = 17 cm, and h<sub>0</sub> = 3 cm. Played at 1/2 speed.
+  </em>
+</p>
+
+---
+
+<p align="center">
+  <img src="Supplemental%20Movies/Figure3b.gif" width="100%">
+</p>
+
+<p align="center">
+  <em>
+    Movie 1: Image sequence of a breaking wave with no particles for H<sub>g</sub> = 17 cm, and h<sub>0</sub> = 3 cm. Played at 1/2 speed.
+  </em>
+</p>
+
+---
+
+<p align="center">
   <img src="Supplemental%20Movies/Figure9a.gif" width="100%">
 </p>
 
