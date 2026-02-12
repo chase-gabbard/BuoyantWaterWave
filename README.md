@@ -92,13 +92,18 @@ The data presented in the manuscript is available [here](Data/Data_BuoyantWaterW
 If you use this data, please cite our associated paper:
 
 ```bibtex
-@article{reyner2025granular,
-  title={Granular collapse on particle-laden water},
-  author={Nathan Reyner, Chase T. Gabbard, and Joshua B. Bostwick},
-  journal={XXX},
-  volume={XXX},
-  number={XXX},
-  pages={XXX},
-  year={XXX},
-  publisher={XXX}
+@article{reyner2026granular,
+  title = {Granular collapse on particle-laden water},
+  author = {Reyner, Nathan and Gabbard, Chase T. and Bostwick, Joshua B.},
+  journal = {Phys. Rev. Fluids},
+  volume = {11},
+  issue = {2},
+  pages = {024803},
+  numpages = {15},
+  year = {2026},
+  month = {Feb},
+  publisher = {American Physical Society},
+  doi = {10.1103/hcyb-7nhz},
+  url = {https://link.aps.org/doi/10.1103/hcyb-7nhz}
 }
+
